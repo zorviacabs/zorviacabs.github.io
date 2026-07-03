@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zorviacabs.github.io/tempo-raveller-rental-jaipur/sitemap.xml
+Sitemap: https://zorviacabs.github.io/sitemap.xml
